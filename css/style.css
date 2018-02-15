@@ -1,0 +1,23 @@
+.flex-container {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height : 100vh;
+  background-color: #286090;
+  color:#286090;
+}
+
+.container {
+  max-width:500px;
+  background-color:white;
+  padding: 10px 40px 40px 40px;
+}
+
+#title {
+  margin-bottom:30px;
+}
+
+#ctemp {
+  
+}
+
